@@ -1,6 +1,6 @@
 # Pizza Sales Analysis in SQL and Power BI
 
-![PBI_1](PBI_1.jpg)
+![PBI_1](PBI_1.PNG)
 
 ### A Data Analytics Projects with SQL and PowerBI to control any online Business
 
